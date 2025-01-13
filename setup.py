@@ -5,8 +5,6 @@ Created on Mon Jan 13 16:12:50 2025
 @author: Nejjari
 """
 
-# todo_list_app.py
-
 # import necessary modules
 import os
 
