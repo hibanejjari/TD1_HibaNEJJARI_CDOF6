@@ -1,37 +1,56 @@
-## TD1_HibaNEJJARI_CDOF6
-
-
 # To-Do List Application
 
-A simple command-line application to manage your tasks efficiently. This project allows users to view, add, delete, and mark tasks as completed in an easy-to-use interactive interface.
+Welcome to the **To-Do List** application! This simple, intuitive application lets you manage your tasks directly from the terminal.
 
 ---
 
-## Features
+## 🛠️ Installation
 
-- **View Tasks**: Display all tasks with their status (completed or not).
-- **Add Task**: Add new tasks with a description.
-- **Delete Task**: Remove tasks based on their number in the list.
-- **Complete Task**: Mark specific tasks as completed.
-- **User-Friendly Menu**: Intuitive menu to navigate through the application options.
-
----
-
-## How to Run the Project
-
-1. Clone the repository or download the script file:
+1. **Click on the :** repository
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/votre-repo/todo-list-app.git
+   cd todo-list-app
 
-if Python 3.x is installed on your system. You can check by running:
-bash
-Copier le code
-python --version
 
-Execute the script:
-bash
+## 🚀 Usage
+The application features an interactive menu to manage your tasks. Here are the available options:
 
-Copier le code
-python todo_list_app.py
-then follow the on-screen instructions to manage your tasks.
+- View tasks:
+Displays all existing tasks with their status (completed or not).
+
+- Add task:
+Allows you to add a new task by entering its description.
+
+- Delete task:
+Deletes a task according to its number in the list.
+
+- Complete a task :
+Marks a task as completed.
+
+- Exit application:
+Closes the application securely.
+
+## 📖 Example of use
+
+To-Do List Application
+1. View tasks
+2. Add a task
+3. Delete a task
+4. Complete a task
+5. Exit
+
+Choose an option: 2
+Enter the task description: Buy groceries
+Task added successfully!
+
+To-Do List Application
+1. View tasks
+2. Add a task
+3. Delete a task
+4. Complete a task
+5. Exit
+
+Choose an option: 1
+
+Your tasks:
+1. [ ] Buy groceries
