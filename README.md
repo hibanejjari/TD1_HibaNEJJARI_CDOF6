@@ -24,3 +24,14 @@ A simple command-line application to manage your tasks efficiently. This project
    git clone <repository_url>
    cd <project_directory>
 
+Ensure Python 3.x is installed on your system. You can check by running:
+
+bash
+Copier le code
+python --version
+Execute the script:
+
+bash
+Copier le code
+python todo_list_app.py
+Follow the on-screen instructions to manage your tasks.
