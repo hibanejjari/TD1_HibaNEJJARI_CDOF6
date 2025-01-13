@@ -15,19 +15,19 @@ Welcome to the **To-Do List** application! This simple, intuitive application le
 ## 🚀 Usage
 The application features an interactive menu to manage your tasks. Here are the available options:
 
-View tasks:
+- View tasks:
 Displays all existing tasks with their status (completed or not).
 
-Add task:
+- Add task:
 Allows you to add a new task by entering its description.
 
-Delete task:
+- Delete task:
 Deletes a task according to its number in the list.
 
-Complete a task :
+- Complete a task :
 Marks a task as completed.
 
-Exit application:
+- Exit application:
 Closes the application securely.
 
 ## 📖 Example of use
