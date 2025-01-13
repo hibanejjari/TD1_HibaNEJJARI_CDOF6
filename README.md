@@ -1,36 +1,36 @@
 # To-Do List Application
 
-Bienvenue dans l'application **To-Do List** ! Cette application simple et intuitive vous permet de gérer vos tâches directement depuis le terminal.
+Welcome to the **To-Do List** application! This simple, intuitive application lets you manage your tasks directly from the terminal.
 
 ---
 
 ## 🛠️ Installation
 
-1. **Clonez le dépôt :**
+1. **Click on the :** repository
    ```bash
    git clone https://github.com/votre-repo/todo-list-app.git
    cd todo-list-app
 
 
-## 🚀 Utilisation
-L'application propose un menu interactif pour gérer vos tâches. Voici les options disponibles :
+## 🚀 Usage
+The application features an interactive menu to manage your tasks. Here are the available options:
 
-Voir les tâches :
-Affiche toutes les tâches existantes avec leur statut (complétée ou non).
+View tasks:
+Displays all existing tasks with their status (completed or not).
 
-Ajouter une tâche :
-Permet d'ajouter une nouvelle tâche en entrant sa description.
+Add task:
+Allows you to add a new task by entering its description.
 
-Supprimer une tâche :
-Supprime une tâche en fonction de son numéro dans la liste.
+Delete task:
+Deletes a task according to its number in the list.
 
-Compléter une tâche :
-Marque une tâche comme terminée.
+Complete a task :
+Marks a task as completed.
 
-Quitter l'application :
-Ferme l'application en toute sécurité.
+Exit application:
+Closes the application securely.
 
-## 📖 Exemple d'utilisation
+## 📖 Example of use
 
 To-Do List Application
 1. View tasks
